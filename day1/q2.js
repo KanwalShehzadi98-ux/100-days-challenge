@@ -1,2 +1,3 @@
-var personName = "Kanwal";
-console.log("Hello ".concat(personName, ",would you like to learn some python today?"));
+"use strict";
+let personName = "Kanwal";
+console.log(`Hello ${personName},would you like to learn some python today?`);
